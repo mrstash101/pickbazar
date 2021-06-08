@@ -74,7 +74,7 @@ For starting the shop part with corresponding api run below commands.
 # for dev mode run below command
 yarn dev:shop
 
-```Change the next.config.js
+# Change the next.config.js
 const { withPlugins } = require('next-compose-plugins');
 const withOptimizedImages = require('next-optimized-images');
 
